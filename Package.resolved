@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUILib-DocumentPicker",
+        "repositoryURL": "https://github.com/swiftuilib/document-picker",
+        "state": {
+          "branch": null,
+          "revision": "dca7adf7c1ff5355b696ba2da7aebf6ffa9bb15d",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SwiftUILib-KeyboardSupport",
+        "repositoryURL": "https://github.com/swiftuilib/keyboard-support",
+        "state": {
+          "branch": null,
+          "revision": "384e24e02cdef3d347a78b1f5df09d435c854f14",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SwiftUILib-WrapStack",
+        "repositoryURL": "https://github.com/swiftuilib/wrap-stack",
+        "state": {
+          "branch": null,
+          "revision": "e3e29313dd9860a74d65f2f3b98a6c84c9b5a9d8",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
