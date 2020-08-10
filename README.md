@@ -18,7 +18,7 @@ In _XCode_ add the following URL to your project's _Swift Package_ dependencies:
 
 - [WrapStack](https://github.com/swiftuilib/wrap-stack)
 
-![WrapStack](https://raw.githubusercontent.com/swiftuilib/wrap-stack/HEAD/doc/demo.pngf)
+![WrapStack](https://raw.githubusercontent.com/swiftuilib/wrap-stack/HEAD/doc/demo.png)
 
 # Development
 
